@@ -13,5 +13,5 @@ The name of this folder can be changed, but it is necessary to make the change i
 
 ## Screenshots
 
-!["Javascript Form"]("screenshots/formBW.png")
+!["Javascript Form"](screenshots/formBW.png)
 
